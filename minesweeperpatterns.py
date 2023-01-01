@@ -69,5 +69,5 @@ while True:
             print(joke['setup'])
             print('\n'+joke['punchline'])
             time.sleep(10)
-            exit()
+            exit() # exit
 
